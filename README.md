@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou o Bruno Almeida</h1>
 <h3 align="center">Desenvolvedor Python e SQL</h3>
 
-<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunoxpyxsql" alt="brunoxpyxsql" />< /a> </p>
-
 - 💬 Pergunte-me sobre **SQL, RPA, IA, DATA SCIENCE, MACHINE LEARNING, PYTHON, BUSSINES INTELLIGENCE, POWER BI, QLIK, TABLEAU, BANCO DE DADOS**
 
 <h3 align="left">Conecte-se comigo:</h3>
